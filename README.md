@@ -16,18 +16,18 @@ An interactive recommendation system that delivers personalized electronics sugg
 
 ## 📂 File Structure
 electronics-recommender-system/
-├── recommender_app.py                  # Streamlit app script
-├── Project_Data_Cleaning.ipynb         # Preprocessing and EDA notebook
-├── screenshots/
-│   ├── recommend_tab.png
-│   ├── eda_dashboard_1.png
-│   ├── eda_dashboard_2.png
-│   └── explore_tab.png
-└── README.md
-Data-
-│   ├── category_tree.csv               # Download from Kaggle
-│   ├── events.csv                      # Download from Kaggle
-│   ├── item_properties.csv             # Download from Kaggle
+- ├── recommender_app.py                  # Streamlit app script
+- ├── Project_Data_Cleaning.ipynb         # Preprocessing and EDA notebook
+- ├── screenshots/
+- │   ├── recommend_tab.png
+- │   ├── eda_dashboard_1.png
+- │   ├── eda_dashboard_2.png
+- │   └── explore_tab.png
+- └── README.md
+- Data-
+- │   ├── category_tree.csv               # Download from Kaggle
+- │   ├── events.csv                      # Download from Kaggle
+- │   ├── item_properties.csv             # Download from Kaggle
 📎 **Dataset Source:**  
 This project uses the open-source [RocketRetail eCommerce dataset from Kaggle](https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset), which contains over 1 million user interactions, including clicks, carts, and transactions.
 
