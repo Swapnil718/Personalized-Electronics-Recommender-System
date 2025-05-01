@@ -6,7 +6,6 @@ An interactive recommendation system that delivers personalized electronics sugg
 
 ## 📅 Project Timeline  
 **Feb 2025 – Mar 2025**
-
 ---
 
 ## 💻 Tech Stack  
